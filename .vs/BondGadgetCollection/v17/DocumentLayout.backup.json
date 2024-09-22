@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|c:\\users\\mohammed\\source\\repos\\bondgadgetcollection\\bondgadgetcollection\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|solutionrelative:bondgadgetcollection\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|c:\\users\\mohammed\\source\\repos\\bondgadgetcollection\\bondgadgetcollection\\views\\gadgets\\searchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|solutionrelative:bondgadgetcollection\\views\\gadgets\\searchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|c:\\users\\mohammed\\source\\repos\\bondgadgetcollection\\bondgadgetcollection\\data\\gadgetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|solutionrelative:bondgadgetcollection\\data\\gadgetdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|c:\\users\\mohammed\\source\\repos\\bondgadgetcollection\\bondgadgetcollection\\controllers\\gadgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|solutionrelative:bondgadgetcollection\\controllers\\gadgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|c:\\users\\mohammed\\source\\repos\\bondgadgetcollection\\bondgadgetcollection\\models\\gadgetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|solutionrelative:bondgadgetcollection\\models\\gadgetmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|c:\\users\\mohammed\\source\\repos\\bondgadgetcollection\\bondgadgetcollection\\views\\gadgets\\gadgetform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|solutionrelative:bondgadgetcollection\\views\\gadgets\\gadgetform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|c:\\users\\mohammed\\source\\repos\\bondgadgetcollection\\bondgadgetcollection\\views\\gadgets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|solutionrelative:bondgadgetcollection\\views\\gadgets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|c:\\users\\mohammed\\source\\repos\\bondgadgetcollection\\bondgadgetcollection\\views\\gadgets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36D08200-9EFC-474A-9F3D-B33F16F9F2F7}|BondGadgetCollection\\BondGadgetCollection.csproj|solutionrelative:bondgadgetcollection\\views\\gadgets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BondGadgetCollection\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BondGadgetCollection\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T18:37:58.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GadgetsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Controllers\\GadgetsController.cs",
+              "RelativeDocumentMoniker": "BondGadgetCollection\\Controllers\\GadgetsController.cs",
+              "ToolTip": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Controllers\\GadgetsController.cs",
+              "RelativeToolTip": "BondGadgetCollection\\Controllers\\GadgetsController.cs",
+              "ViewState": "AgIAAD8AAAAAy8zMzMwMwEoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T12:03:41.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GadgetDao.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Data\\GadgetDao.cs",
+              "RelativeDocumentMoniker": "BondGadgetCollection\\Data\\GadgetDao.cs",
+              "ToolTip": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Data\\GadgetDao.cs",
+              "RelativeToolTip": "BondGadgetCollection\\Data\\GadgetDao.cs",
+              "ViewState": "AgIAAMEAAAAAMzMzMzMtwNMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:43:00.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Views\\Gadgets\\SearchForm.cshtml",
+              "RelativeDocumentMoniker": "BondGadgetCollection\\Views\\Gadgets\\SearchForm.cshtml",
+              "ToolTip": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Views\\Gadgets\\SearchForm.cshtml",
+              "RelativeToolTip": "BondGadgetCollection\\Views\\Gadgets\\SearchForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T17:49:21.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GadgetForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Views\\Gadgets\\GadgetForm.cshtml",
+              "RelativeDocumentMoniker": "BondGadgetCollection\\Views\\Gadgets\\GadgetForm.cshtml",
+              "ToolTip": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Views\\Gadgets\\GadgetForm.cshtml",
+              "RelativeToolTip": "BondGadgetCollection\\Views\\Gadgets\\GadgetForm.cshtml",
+              "ViewState": "AgIAAAwAAABgZmZmZmYkwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T15:07:09.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GadgetModel.cs",
+              "DocumentMoniker": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Models\\GadgetModel.cs",
+              "RelativeDocumentMoniker": "BondGadgetCollection\\Models\\GadgetModel.cs",
+              "ToolTip": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Models\\GadgetModel.cs",
+              "RelativeToolTip": "BondGadgetCollection\\Models\\GadgetModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:35:20.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Views\\Gadgets\\Index.cshtml",
+              "RelativeDocumentMoniker": "BondGadgetCollection\\Views\\Gadgets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Views\\Gadgets\\Index.cshtml",
+              "RelativeToolTip": "BondGadgetCollection\\Views\\Gadgets\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T14:30:42.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Views\\Gadgets\\Details.cshtml",
+              "RelativeDocumentMoniker": "BondGadgetCollection\\Views\\Gadgets\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Mohammed\\source\\repos\\BondGadgetCollection\\BondGadgetCollection\\Views\\Gadgets\\Details.cshtml",
+              "RelativeToolTip": "BondGadgetCollection\\Views\\Gadgets\\Details.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T14:05:10.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

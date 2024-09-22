@@ -1,0 +1,31 @@
+﻿@model BondGadgetCollection.Models.GadgetModel
+
+@{
+    ViewData["Title"] = "SearchForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Search here</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SearchForName">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label for="searchPhrase" class="control-label"></label>
+                <input type="text" name="searchPhrase" id="searchPhrase" class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Search" class="mt-2 btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
